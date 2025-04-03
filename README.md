@@ -1,7 +1,7 @@
 # Lord Textures by varttist
 
 ## Описание // Description
-RU: Этот текстурпак предназначен для игры LORD, основанной на Lord Of The Test (by Amaz).
+RU: Этот текстурпак предназначен для игры    LORD, основанной на Lord Of The Test (by Amaz).
 
 ENG: This texture pack is for the game LORD, based on Lord Of The Test (by Amaz).
 
