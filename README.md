@@ -4,7 +4,7 @@
 RU: Этот текстурпак предназначен для игры    LORD, основанной на Lord Of The Test (by Amaz).
 
 ENG: This texture pack is for the game LORD, based on Lord Of The Test (by Amaz).
-
+   
 ## Перечень крупных изменений // List of major changes
 - Ground textures;
 - Ores textures;
